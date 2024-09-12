@@ -10,7 +10,7 @@ O GitHub é uma plataforma de hospedagem de código-fonte e arquivos com control
 permitindo que programadores, utilitários ou qualquer usuário cadastrado na platafroma contribuam entre si 
 em qualquer lugar do mundo.
 
-### Algumas funcionalidades que podemos utilizar no GitHub
+### Algumas funcionalidades disponíveis no GitHub
 + **Branch:** Permite que mais de uma pessoa trabalhe no projeto, sem alterar a aplicação principal.
 + **Merge:** Permite que o usuário pegue as linhas de desenvolvimento independetes criadas pelo branch e as integre em uma só.
 + **Pull Resquest:** Permite mesclar as alterações de um branch em outro.
@@ -20,4 +20,7 @@ em qualquer lugar do mundo.
 O README.md é um arquivo com extensão .md (Markdown). Nele podemos encotrar informações necessárias para entender 
 o obejtivo do projeto.
 
-## Criando um repositório
+## Processos feitos em aula
+1. Criar um GitHub
+2. Criar um repositorio
+3. Criar uma um arquivo
