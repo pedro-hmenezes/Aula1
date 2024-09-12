@@ -24,3 +24,4 @@ o obejtivo do projeto.
 1. Criar um GitHub
 2. Criar um repositorio
 3. Criar uma um arquivo
+4. Utilizar o Codespaces
